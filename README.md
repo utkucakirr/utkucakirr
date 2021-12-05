@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **C#, .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/utkucakirr?tab=repositories](https://github.com/utkucakirr?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/utkucakirr?tab=repositories)
 
 - 📫 How to reach me **utkucakirr@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/utkucakirr/](https://www.linkedin.com/in/utkucakirr/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/utkucakirr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
